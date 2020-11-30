@@ -1,0 +1,43 @@
+*{
+box-sizing: border-box;
+margin:0;
+padding:0;
+
+}
+
+.logo{ 
+    width: 60px;
+    height: 59px;     
+}
+.logo img {
+     width: 100%;
+     height: auto;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-image:url(kenitra.jpg);
+    align-items: center;
+    padding:10em 0;
+}
+
+.nav-links{
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+}
+
+.nav-links a{
+    color: #FFEE93;
+    text-decoration: none;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+.nav-links li{
+    text-decoration: none;
+}
+.container{
+    width: 60px;
+    height: 59px;  
+}
