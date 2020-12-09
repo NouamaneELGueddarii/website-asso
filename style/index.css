@@ -10,14 +10,12 @@ header{
     border-bottom:2px solid #D3D3D3;
 }
 .logo{
-    height: 100px;
-    width: 100px;
+    height: 70px;
+    width: 70px;
 }
 .logo img{
     width: 100%;
     height:auto;
-    margin-left: 50px;
-    margin-top: 50px;
 }
 .nav-links{
     justify-content: space-around;
