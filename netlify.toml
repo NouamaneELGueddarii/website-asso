@@ -2,19 +2,16 @@
   from = "/fotos.html"
   to = "Webseite Deutsch/De_fotos.html"
   status = 301
-  force = false
-  query = {path = ":path"}
+  force = true
 
 [[redirects]]
   from = "/Satzung.html"
   to = "Webseite Deutsch/De_Satzung.html"
   status = 301
-  force = false
-  query = {path = ":path"}
+  force = true
 
 [[redirects]]
   from = "/kontakt.html"
   to = "Webseite Deutsch/De_kontakt.html"
   status = 301
-  force = false
-  query = {path = ":path"}
+  force = true
