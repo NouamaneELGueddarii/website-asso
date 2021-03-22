@@ -1,17 +1,34 @@
 [[redirects]]
   from = "/fotos.html"
-  to = "Webseite Deutsch/De_fotos.html"
+  to = "WebseiteDeutsch/De_fotos.html"
   status = 301
   force = true
 
 [[redirects]]
   from = "/Satzung.html"
-  to = "Webseite Deutsch/De_Satzung.html"
+  to = "WebseiteDeutsch/De_Satzung.html"
   status = 301
   force = true
 
 [[redirects]]
   from = "/kontakt.html"
-  to = "Webseite Deutsch/De_kontakt.html"
+  to = "WebseiteDeutsch/De_kontakt.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/ar_Satzung.html"
+  to = "WebseiteArabisch/Ar_Satzung.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/ar_kontakt.html"
+  to = "WebseiteArabisch/Ar_kontakt.html"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/ar_fotos.html"
+  to = "WebseiteArabisch/Ar_fotos.html"
   status = 301
   force = true
