@@ -1,8 +1,17 @@
+##Deutsche Version
+
+[[redirects]]
+  from = "/"
+  to = "WebseiteDeutsch/index.html"
+  status = 301
+  force = true
+  conditions = {Country = ["DE"]}
 [[redirects]]
   from = "/fotos.html"
   to = "WebseiteDeutsch/De_fotos.html"
   status = 301
   force = true
+  
 
 [[redirects]]
   from = "/Satzung.html"
@@ -16,6 +25,7 @@
   status = 301
   force = true
 
+##Arabische Version
 [[redirects]]
   from = "/ar_Satzung.html"
   to = "WebseiteArabisch/Ar_Satzung.html"
@@ -32,3 +42,10 @@
   to = "WebseiteArabisch/Ar_fotos.html"
   status = 301
   force = true
+
+  [[redirects]]
+  from = "/"
+  to = "WebseiteArabisch/Ar_index.html"
+  status = 301
+  force = true
+  conditions = {Country = ["MA"]}
