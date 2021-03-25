@@ -1,5 +1,4 @@
 ##Deutsche Version
-
 [[redirects]]
   from = "/"
   to = "WebseiteDeutsch/index.html"
@@ -11,7 +10,6 @@
   to = "WebseiteDeutsch/De_fotos.html"
   status = 301
   force = true
-  
 
 [[redirects]]
   from = "/Satzung.html"
