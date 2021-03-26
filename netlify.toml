@@ -23,6 +23,13 @@
   status = 301
   force = true
 
+## From german to arabic 
+[[redirects]]
+  from = "/GeToAr"
+  to = "WebseiteArabisch/Ar_index.html"
+  status = 301
+  force = true
+
 ##Arabische Version
 [[redirects]]
   from = "/ar_Satzung.html"
