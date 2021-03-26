@@ -30,6 +30,13 @@
   status = 301
   force = true
 
+## From ar to german 
+[[redirects]]
+  from = "/ArToGe"
+  to = "WebseiteDeutsch/index.html"
+  status = 301
+  force = true
+
 ##Arabische Version
 [[redirects]]
   from = "/ar_Satzung.html"
