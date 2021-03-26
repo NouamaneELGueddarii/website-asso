@@ -39,6 +39,12 @@
 
 ##Arabische Version
 [[redirects]]
+  from = "/ar_index.html"
+  to = "WebseiteArabisch/Ar_index.html"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/ar_Satzung.html"
   to = "WebseiteArabisch/Ar_Satzung.html"
   status = 301
